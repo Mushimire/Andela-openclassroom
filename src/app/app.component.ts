@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
+  selector: 'ng6-rpwebsite-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
