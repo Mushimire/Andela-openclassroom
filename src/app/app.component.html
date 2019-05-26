@@ -9,3 +9,11 @@
 <P>I'm going to write lines of RP WEBSITE</P>
 <a routerLink="/users">Users Page</a>
 <router-outlet></router-outlet>
+<form #userlogin = "ngForm" (ngsubmit) = "onClickSubmit(userlogin.value" >
+  <input type = "text" name = "emailid" placeholder="emailid" ngModel>
+  <br/>
+  <input type = "password" name = "password" placeholder = "password" ngModel>
+  <br/>
+  <input type = "submit" value = "submit">
+
+</form>
