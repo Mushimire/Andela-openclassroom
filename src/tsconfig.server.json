@@ -1,3 +1,4 @@
+//helps maintain the details for testing
 {
   "extends": "./tsconfig.app.json",
   "compilerOptions": {

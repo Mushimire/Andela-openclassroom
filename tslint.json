@@ -1,3 +1,4 @@
+//is the config file with rules to be considered while compiling
 {
   "extends": "tslint:recommended",
   "rulesDirectory": [

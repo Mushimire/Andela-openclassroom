@@ -1,3 +1,4 @@
+//the class for the component is defined over here. You can do the processing of the html structure in the .ts file. The processing will include activities such as connecting to the database, interacting with other components, routing, services
 import { Component } from '@angular/core';
 import { MyserviceService } from './myservice.service';
 

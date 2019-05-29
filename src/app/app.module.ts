@@ -1,3 +1,4 @@
+//If you open the file, you will see that the code has reference to different libraries, which are imported. Angular-cli has used these default libraries for the import - angular/core, platform-browser. The names itself explain the usage of the libraries
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 

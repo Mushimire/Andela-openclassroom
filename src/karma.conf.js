@@ -1,3 +1,6 @@
+//Used for unit testing via the protractor. All the information required for the project is provided in karma.conf.js file
+
+
 // Karma configuration file, see link for more information
 // https://karma-runner.github.io/1.0/config/configuration-file.html
 
