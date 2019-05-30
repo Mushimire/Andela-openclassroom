@@ -1,4 +1,5 @@
 // tells which libraries will be installed into node_modules when you run npm install
+//Configures npm package dependencies that are required for this library
 {
   "name": "ng6-rpwebsite",
   "version": "0.0.0",
