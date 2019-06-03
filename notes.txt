@@ -103,7 +103,10 @@ ii.available classes
 
 *occupied
 
-8.
+8.Advertisements
+
+9.Time table
+
 Documentation:
 This Website will contain different channels related to options,classes,students and even Lectures who are studying and teaching in Rwanda Polytechnic IPRC Ngoma college
 it will help them to know whats' up in the college,announcements,assignments,time table, Exam result as well as other stuf as students.
