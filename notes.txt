@@ -1,3 +1,109 @@
+1.login page will contain
+
+a.sign up:i.Names
+
+ii.Department
+
+civil engineering
+
+*Construction
+***land surveying
+
+mechanical engineering
+
+***Production
+***Automobile
+
+*Hospitality
+
+***curinary art
+***food and beverage
+***house keeping
+***front office
+
+*ICT
+
+***IT
+
+iv:level
+
+v.year of studying
+
+vi.title:
+*student
+
+***CP
+
+***lecture
+******HOD
+******normal
+
+vi.registration number
+
+vii.email
+
+b.sign in:
+*student page
+
+i.email address
+
+ii.password
+
+iii.forgot password
+
+iv.registration number(it can be used to sign in)
+
+*lecture page
+
+***HOD
+
+***normal
+
+i.email address
+
+ii.password
+
+iii.forgot password
+
+2.announcements
+
+3.News
+
+4.semester
+
+a.modules
+
+i.different types of modules
+
+5.semester
+
+a.marks
+
+i.CAT
+
+ii.assignments
+
+iii.Exam
+
+6.class
+
+a.number of class available in the college
+
+i.every day TSS classes ocupied
+
+ii.available classes
+
+*free
+
+*ocupied
+
+7.lab
+
+*free
+
+*occupied
+
+8.
 Documentation:
 This Website will contain different channels related to options,classes,students and even Lectures who are studying and teaching in Rwanda Polytechnic IPRC Ngoma college
 it will help them to know whats' up in the college,announcements,assignments,time table, Exam result as well as other stuf as students.
