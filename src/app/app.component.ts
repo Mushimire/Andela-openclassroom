@@ -1,6 +1,6 @@
 //the class for the component is defined over here. You can do the processing of the html structure in the .ts file. The processing will include activities such as connecting to the database, interacting with other components, routing, services
 import { Component } from '@angular/core';
-import { MyserviceService } from './myservice.service';
+
 
 @Component({
   selector: 'ng6-rpwebsite-root',
@@ -14,9 +14,10 @@ export class AppComponent {
   constructor(private myservice: MyserviceService){ }
   ngOnit() {
     this.todaydate = this.myservice.showTodayDate();
+    
   
   }
   onClickSubmit(data) {
-    alert("Entered Email id :" + data.emailid);
+    
   }
 }

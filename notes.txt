@@ -85,7 +85,7 @@ ii.assignments
 
 iii.Exam
 
-6.class
+6.classes
 
 a.number of class available in the college
 
