@@ -8,16 +8,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ng6-rpwebsite';
-  todaydate: any;
-  componentproperty;
-  constructor(private myservice: MyserviceService){ }
-  ngOnit() {
-    this.todaydate = this.myservice.showTodayDate();
-    
-  
-  }
-  onClickSubmit(data) {
-    
-  }
+  title = 'Hubert i man';
+  firstNameO = "Muragijimana";
+
 }
