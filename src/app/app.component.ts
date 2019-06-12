@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ng6-rpwebsite';
+  title = 'Hubert i man';
+  firstNameO = "Muragijimana";
 }
