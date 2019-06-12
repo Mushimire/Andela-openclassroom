@@ -1,5 +1,5 @@
 // This file is required by karma.conf.js and loads recursively all the .spec and framework files
-
+//here, the unit test cases for testing the project will be handled
 import 'zone.js/dist/zone-testing';
 import { getTestBed } from '@angular/core/testing';
 import {

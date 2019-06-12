@@ -1,3 +1,4 @@
+//basically contains the compiler options required during compilation
 {
   "compileOnSave": false,
   "compilerOptions": {

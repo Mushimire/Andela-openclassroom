@@ -1,3 +1,4 @@
+# gitignore file should be committed into the repository, in order to share the ignore rules with any other users that clone the repository.
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output

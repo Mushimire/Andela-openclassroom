@@ -1,0 +1,108 @@
+1.login page will contain
+
+a.sign up:i.Names
+
+ii.Department
+
+civil engineering
+
+*Construction
+***land surveying
+
+mechanical engineering
+
+***Production
+***Automobile
+
+*Hospitality
+
+***curinary art
+***food and beverage
+***house keeping
+***front office
+
+*ICT
+
+***IT
+
+iv:level
+
+v.year of studying
+
+vi.title:
+*student
+
+***CP
+
+***lecture
+******HOD
+******normal
+
+vi.registration number
+
+vii.email
+
+b.sign in:
+*student page
+
+i.email address
+
+ii.password
+
+iii.forgot password
+
+iv.registration number(it can be used to sign in)
+
+*lecture page
+
+***HOD
+
+***normal
+
+i.email address
+
+ii.password
+
+iii.forgot password
+
+2.announcements
+
+3.News
+
+4.semester
+
+a.modules
+
+i.different types of modules
+
+5.semester
+
+a.marks
+
+i.CAT
+
+ii.assignments
+
+iii.Exam
+
+6.classes
+
+a.number of class available in the college
+
+i.every day TSS classes ocupied
+
+ii.available classes
+
+*free
+
+*ocupied
+
+7.lab
+
+*free
+
+*occupied
+
+8.Advertisements
+
+9.Time table
